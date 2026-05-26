@@ -140,6 +140,12 @@ python src/predict.py
 
 ---
 
+# Training Output
+
+![Training Output](images/training_output.png)
+
+---
+
 # Example Prediction
 
 Input:
